@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teemaishoo.jigyasu.com/sitemap.xml
